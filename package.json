@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "grunt": "^1.0.4"
+    "grunt": "^1.0.4",
+    "jquery": "^3.4.1"
   }
 }
